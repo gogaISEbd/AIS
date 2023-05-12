@@ -40,4 +40,5 @@
   </languages>
   <catalogs>Catalog.Справчоник1</catalogs>
   <documents>Document.Документ1</documents>
+  <documents>Document.Документ2</documents>
 </mdclass:Configuration>
