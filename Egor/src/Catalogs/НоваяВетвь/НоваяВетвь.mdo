@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ff449a9c-4491-4e09-b1dc-4343dcbfb181">
+  <producedTypes>
+    <objectType typeId="50aa5573-a8ad-47c4-98fb-e53c97dc048d" valueTypeId="23c7e1f5-259d-4098-9d26-b0687aeb8db2"/>
+    <refType typeId="12bd1512-555d-44eb-a40d-be0230173ac7" valueTypeId="8e68276b-2be6-477b-b56a-ef33e4645e37"/>
+    <selectionType typeId="872e4753-6948-450b-9003-aaa59e4f72ff" valueTypeId="91ef43d7-3db5-4b97-949a-69b7bc544e4d"/>
+    <listType typeId="25e0632a-f468-4d6b-a87f-4cb05cf01ce8" valueTypeId="8ae186ec-0456-48fa-8ab6-ee700b0d320a"/>
+    <managerType typeId="d38d1559-b889-416f-aab5-db5bdfa993e1" valueTypeId="c5b8bd07-ef3d-4ba1-a8f9-4a36b55c2f0d"/>
+  </producedTypes>
+  <name>НоваяВетвь</name>
+  <synonym>
+    <key>ru</key>
+    <value>Новая ветвь</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.НоваяВетвь.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.НоваяВетвь.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

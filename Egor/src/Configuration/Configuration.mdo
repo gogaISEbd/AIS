@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.НоваяВетвь</catalogs>
   <catalogs>Catalog.Справчоник1</catalogs>
   <documents>Document.Документ1</documents>
 </mdclass:Configuration>
